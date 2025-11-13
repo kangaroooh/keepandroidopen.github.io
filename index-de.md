@@ -148,6 +148,13 @@ Bitten Sie um eine **schriftliche Empfangsbestätigung*- Ihrer Beschwerde und er
 
 - Kontaktieren Sie die [Philippinische Wettbewerbsbehörde (PCC)](https://www.phcc.gov.ph/)
 
+
+#### Ukraine
+
+- Contact the [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)
+- Contact the [Ministry of Digital Transformation](https://thedigital.gov.ua/)
+- Contact the [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)
+
 ### Entwickler: Widerstehen und ablehnen
 
 Wenn Sie App-Entwickler sind, **registrieren Sie sich nicht*- für das Early-Access-Programm, führen Sie keine Identitätsprüfung durch und akzeptieren Sie keine Einladungen zur Android-Entwicklerkonsole.
