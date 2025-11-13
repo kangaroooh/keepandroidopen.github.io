@@ -154,6 +154,13 @@ Stížnosti jsou zvláště efektivní, když pochází od občanů dané země 
 * Kontaktujte [Úřad pro ochranu hospodářské soutěže (ÚOHS)](https://www.uohs.gov.cz/cs/)
 
 
+#### Ukraine
+
+- Contact the [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)
+- Contact the [Ministry of Digital Transformation](https://thedigital.gov.ua/)
+- Contact the [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)
+
+
 ### Vývojáři: Odolejte a odmítněte
 
 Pokud jste vývojáři aplikací, _**nepřihlašujte se**_ do programu ranného přístupu, neprovádějte ověření identity ani nepřijímejte pozvání do Android Developer Console. Odpovězte (zdvořile) na jakoukoli pozvánku seznamem věcí, které vás v této souvislosti znepokojuje a se kterými nesouhlasíte.
