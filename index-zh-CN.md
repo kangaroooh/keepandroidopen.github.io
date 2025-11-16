@@ -67,25 +67,25 @@ site_copyright: "**版权:** 无。本著作已标记"
 
 - 电子邮件: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?cc=brazil@keepandroidopen.org)
 - 联系 Procon (取决于你所在的州)和[Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)
-- _注意：巴西被指定为强制执行开发者注册的[ 4 个首批的国家]之一(https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)_
+- _注意：巴西被指定为强制执行开发者注册的[ 4 个首批的国家](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)之一_
 
 #### 新加坡
 
 - 电子邮件: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?cc=singapore@keepandroidopen.org)
 - 联系[新加坡竞争与消费者委员会 (CCCS)](https://www.cccs.gov.sg)
-- _注意: 新加坡被指定为强制执行开发者注册的[ 4 个首批的国家]之一(https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)_
+- _注意: 新加坡被指定为强制执行开发者注册的[ 4 个首批的国家](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)之一_
 
 #### 泰国
 
 - 电子邮件: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)
 - 联系[贸易竞争委员会办公室 (OTCC)](https://www.tcct.or.th/)
-- _注意: 泰国被指定为强制执行开发者注册的[[ 4 个首批的国家]之一(https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)_
+- _注意: 泰国被指定为强制执行开发者注册的[[ 4 个首批的国家](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)之一_
 
 #### 印度尼西亚
 
 - Email: [infokom@kppu.go.id](mailto:infokom@kppu.go.id?cc=indonesia@keepandroidopen.org)
 - Contact the [KPPU 竞争投诉处理](https://eng.kppu.go.id)
-- _Note: 印度尼西亚被指定为强制执行开发者注册的[ 4 个首批的国家]之一(https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)_
+- _Note: 印度尼西亚被指定为强制执行开发者注册的[ 4 个首批的国家](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)之一_
 
 #### 瑞士
 
@@ -96,7 +96,7 @@ site_copyright: "**版权:** 无。本著作已标记"
 - 电子邮件: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)
 - 向[澳大利亚竞争和消费者委员会  (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)举报
 - 向澳大利亚消费者协会发送请求 ([CHOICE](https://accounts.choice.com.au/contact-us/))。要求他们向澳大利亚竞争与消费者委员会 (ACCC) 提出一则指定投诉。
-- 联系您当地的国会议员或州参议员。如果你不了解你的选区，你可以在[这里]找到(https://electorate.aec.gov.au/)，且你可以在[这里]查找你的议员或参议员。(https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)
+- 联系您当地的国会议员或州参议员。如果你不了解你的选区，你可以在[这里](https://electorate.aec.gov.au/)找到，且你可以在[这里](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)查找你的议员或参议员。
 
 #### 日本
 
@@ -174,7 +174,7 @@ site_copyright: "**版权:** 无。本著作已标记"
 - 使用他们的直接向Google反馈意见[Android 开发者验证要求调查](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
 - 在社交媒体和博客文章上发出你的声音，并链接到<https://keepandroidopen.org>
 - 对线网络水军：当您在社区论坛和社交媒体上遇到支持该政策的可疑帖子(“其实……”)，不妨以理据争，无所顾忌。
-- 通过[编辑此页面]丰富更多有用的信息来帮助这个项目(https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/index.md)。
+- 通过[编辑此页面](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/index.md)丰富更多有用的信息来帮助这个项目。
 - [签署这份 change.org 请愿书](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
 
 #### 联系这些消费者/数字权利小组
