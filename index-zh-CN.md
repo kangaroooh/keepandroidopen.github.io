@@ -35,7 +35,7 @@ site_copyright: "**版权:** 无。本著作已标记"
 ➤ 你，**是消费者**，在购买你的Android设备时相信了Google的这是一个开放的系统平台且你可以在其上运行你选择的任何软件的承诺。然而，从明年开始，他们将在未经同意的情况下向你的操作系统推送更新，不可挽回地剥夺了该权利，并让你听从他们对允许信任哪些软件的判断。
 ➤ 你，**是创作者**，在没有事先取得Google的批准情况下，不能再开发应用程序并直接与你的亲朋好友和社区分享。Android的承诺————即是它过去常用来将自己与iPhone区分开来的营销优势————一直是“开放的”。但Google显然认为，他们足以对Android生态系统上锁封闭，以及插手干预，他们现在可以以傲慢偏见又不受制裁为由抛弃这一原则。
 
-➤ 你，**是国家**, 正在将公民权利和数字主权割让给一家公司，它遵守独裁政权法外要求，可移除完全合法却唯独不称心如意的应用程序。对企业和政府运营的至关重要的软件将任由一家远在天边又触不可及的企业见不得人而又肆意地摆布。
+➤ 你，**是国家**, 在将公民权利和数字主权割让给一家公司，它遵守着独裁政权法外要求，可移除唯独不称心如意却完全合法的应用程序。对企业和政府运营的至关重要的软件将要任由一家远在天边而又触不可及的企业进行见不得人而又肆意地摆布。
 ## 你可以如何出份力
 
 ### 消费者：联系国家监管机构
@@ -67,25 +67,25 @@ site_copyright: "**版权:** 无。本著作已标记"
 
 - 电子邮件: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?cc=brazil@keepandroidopen.org)
 - 联系 Procon (取决于你所在的州)和[Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)
-- _注意：巴西被指定为强制执行开发者注册的[首批的 4 个国家]之一(https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)_
+- _注意：巴西被指定为强制执行开发者注册的[ 4 个首批的国家]之一(https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)_
 
 #### 新加坡
 
 - 电子邮件: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?cc=singapore@keepandroidopen.org)
 - 联系[新加坡竞争与消费者委员会 (CCCS)](https://www.cccs.gov.sg)
-- _注意: 新加坡被指定为强制执行开发者注册的[首批的 4 个国家]之一(https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)_
+- _注意: 新加坡被指定为强制执行开发者注册的[ 4 个首批的国家]之一(https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)_
 
 #### 泰国
 
 - 电子邮件: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)
 - 联系[贸易竞争委员会办公室 (OTCC)](https://www.tcct.or.th/)
-- _注意: 泰国被指定为强制执行开发者注册的[[首批的 4 个国家]之一(https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)_
+- _注意: 泰国被指定为强制执行开发者注册的[[ 4 个首批的国家]之一(https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)_
 
 #### 印度尼西亚
 
 - Email: [infokom@kppu.go.id](mailto:infokom@kppu.go.id?cc=indonesia@keepandroidopen.org)
 - Contact the [KPPU 竞争投诉处理](https://eng.kppu.go.id)
-- _Note: 印度尼西亚被指定为强制执行开发者注册的[首批的 4 个国家]之一(https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)_
+- _Note: 印度尼西亚被指定为强制执行开发者注册的[ 4 个首批的国家]之一(https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)_
 
 #### 瑞士
 
@@ -106,7 +106,7 @@ site_copyright: "**版权:** 无。本著作已标记"
 #### 韩国
 
 - 电子邮件：[kftc@korea.kr](mailto:kftc@korea.kr?cc=korea@keepandroidopen.org)
-- 联系[韩国公平交易委员会n (KFTC)](https://www.ftc.go.kr/)
+- 联系[韩国公平交易委员会 (KFTC)](https://www.ftc.go.kr/)
 
 #### 印度
 
@@ -174,7 +174,7 @@ site_copyright: "**版权:** 无。本著作已标记"
 - 使用他们的直接向Google反馈意见[Android 开发者验证要求调查](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
 - 在社交媒体和博客文章上发出你的声音，并链接到<https://keepandroidopen.org>
 - 对线网络水军：当您在社区论坛和社交媒体上遇到支持该政策的可疑帖子(“其实……”)，不妨以理据争，无所顾忌。
-- 通过[编辑此页面]丰富更多有用的信息来帮助这个项目。(https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/index.md) with more useful information.
+- 通过[编辑此页面]丰富更多有用的信息来帮助这个项目(https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/index.md)。
 - [签署这份 change.org 请愿书](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
 
 #### 联系这些消费者/数字权利小组
