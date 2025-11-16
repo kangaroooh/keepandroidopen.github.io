@@ -1,183 +1,189 @@
 ---
 layout: page
 title: "Keep Android Open"
-lang: zh-CN
-permalink: /zh-CN/
-description: "倡导将Android作为一个免费、开发的平台以供大家构建应用程序。"
+lang: en
+permalink: /
+description: "Advocating for Android as a free, open platform for everyone to build apps on."
 
 # localizable sections for the footer text
-contact_header: "联系"
-contact_email: "电子邮件"
-site_problems_header: "问题"
-site_report_issues: "报告网站问题"
-site_disclaimer: "**免责声明:**本网站是一个由社区推动的非商业性项目。仅用于提供信息与教育目的。"
-site_privacy: "**隐私:**本站不使用cookies，以及用户跟踪或记录"
-site_copyright: "**版权:** 无。本著作已标记"
+contact_header: "Contact"
+contact_email: "Email"
+site_problems_header: "Problems"
+site_report_issues: "Report Site Issues"
+site_disclaimer: "**Disclaimer:** This website is a community-driven noncommercial undertaking. It is operated solely for informational and educational purposes."
+site_privacy: "**Privacy:** This site uses no cookies and performs no user tracking or logging."
+site_copyright: "**Copyright:** None. This work is marked"
 ---
 
-2025年八月，Google [宣布](https://developer.android.com/developer-verification)从明年开始，
-未先经过向Google集中注册，将不再能为Android平台开发应用程序。
-该注册将涉及：
+In August 2025, Google [announced](https://developer.android.com/developer-verification) that starting next year,
+it will no longer be possible to develop apps for the Android platform
+without first registering centrally with Google.
+This registration will involve:
 
-- 向Google支付费用
+- Paying a fee to Google
 {:.li-list .li-money}
-- 同意Google的条款及其条件
+- Agreeing to Google's Terms and Conditions
 {:.li-list .li-terms}
-- 提供政府身份证明
+- Providing government identification
 {:.li-list .li-id}
-- 上传开发者的私人签名密钥证明
+- Uploading evidence of the developer's private signing key
 {:.li-list .li-signing}
-- 列出目前以及将来的应用标识符
+- Listing all current and future application identifiers
 {:.li-list .li-appids}
 
-## 这对于你的权利来说意味着什么
+## What this means for your rights
 
-➤ 你，**是消费者**，在购买你的Android设备时相信了Google的这是一个开放的系统平台且你可以在其上运行你选择的任何软件的承诺。然而，从明年开始，他们将在未经同意的情况下向你的操作系统推送更新，不可挽回地剥夺了该权利，并让你听从他们对允许信任哪些软件的判断。
-➤ 你，**是创作者**，在没有事先取得Google的批准情况下，不能再开发应用程序并直接与你的亲朋好友和社区分享。Android的承诺————即是它过去常用来将自己与iPhone区分开来的营销优势————一直是“开放的”。但Google显然认为，他们足以对Android生态系统上锁封闭，以及插手干预，他们现在可以以傲慢偏见又不受制裁为由抛弃这一原则。
+➤ You, **the consumer**, purchased your Android device believing in Google’s promise that it was an open computing platform and that you could run whatever software you choose on it. Instead, starting next year, they will be non-consensually pushing an update to your operating system that irrevocably blocks this right and leaves you at the mercy of their judgement over what software you are permitted to trust.
 
-➤ 你，**是国家**, 在将公民权利和数字主权割让给一家公司，它遵守着独裁政权法外要求，可移除唯独不称心如意却完全合法的应用程序。对企业和政府运营的至关重要的软件将要任由一家远在天边而又触不可及的企业进行见不得人而又肆意地摆布。
-## 你可以如何出份力
+➤ You, **the creator**, can no longer develop an app and share it directly with your friends, family, and community without first seeking Google’s approval. The promise of Android — and a marketing advantage it has used to distinguish itself against the iPhone — has always been that it is “open”. But Google clearly feels that they have enough of a lock on the Android ecosystem, along with sufficient regulatory capture, that they can now jettison this principle with prejudice and impunity.
 
-### 消费者：联系国家监管机构
-世界各地的监管机构真正关注科技行业的垄断和权力集中，并希望直接听取受影响和担忧的个人意见。直接联系监管机构时，你应该 _礼貌_ 而又 _详尽地_ 说明你所认为这些政策将对消费者和竞争造成的伤害。
+➤ You, **the state**, are ceding the rights of your citizens and your own digital sovereignty to a company with a track record of complying with the extrajudicial demands of authoritarian regimes to remove perfectly legal apps that they happen to dislike. The software that is critical to the running of your businesses and governments will be at the mercy of the opaque whims of a distant and unaccountable corporation.
 
-当由该国家或地区的公民撰写投诉，并且电子邮件的语言是用该地区管理机构的官方语言之一编写的时，投诉的影响力尤具份量。索要一份投诉的 _书面确认_，并考虑将您收到的任何回复转发给[victory@keepandroidopen.org](mailto:victory@keepandroidopen.org)，以便我们精选并参考它们。
-#### 欧盟
-- 发邮件给《数字市场法》团队：[EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)
-- 联系 DMA 团队：[https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)
-- 发送反馈给欧盟 DMA 与 GDPR 相互作用: [有关 DMA 与 GDPR 相互作用的联合指南咨询](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en)，截止于12月4日
-- 发邮件给反垄断: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)
-- 向[欧盟竞争政策](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)投诉
-- ~~[失效]发送反馈给《欧盟数字公平法》：[《欧盟数字公平法》：发表你的意见](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)~~
+## How you can help
 
-#### 英国
+### Consumers: Contact national regulators
 
-- 电子邮件: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?cc=uk@keepandroidopen.org)
-- 向[英国竞争与市场管理局](https://contact-the-cma.service.gov.uk/wizard/classify)举报
+Regulators worldwide are genuinely concerned about monopolies and the centralization of power in the tech sector, and want to hear directly from individuals who are affected and concerned. When contacting regulators directly, you should be _polite_ and _specific_ about the harm you believe these policies will cause, both to consumers and to competition.
 
-#### 美国
+Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region's governing body. Request a _written acknowledgement_ of the complaint, and consider forwarding any responses you receive to [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) so that we might highlight and reference them.
 
-- 向[美国司法部反垄断在线举报](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)举报
-- 向[美国联邦贸易委员会：反垄断投诉](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)投诉
-- ~~电子邮件 (失效)：[antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~
-- ~~电子邮件 (失效)：[antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~
-- _注意: 由于持续的[美国政府停摆](https://www.npr.org/series/g-s1-91413/government-shutdown-2025)，投诉可能需要很长时间才能得到确认和登记。_
+#### European Union
+- Email Digital Markets Act team: [EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)
+- Contact DMA team: [https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)
+- Send feedback on EU interplay between DMA and GDPR: [Consultation on joint guidelines on the interplay between DMA and GDPR](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en) until December 4.
+- Email Antitrust: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)
+- Complain to the [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)
+- ~~[EXPIRED] Send feedback on EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)~~
 
-#### 巴西
+#### United Kingdom
 
-- 电子邮件: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?cc=brazil@keepandroidopen.org)
-- 联系 Procon (取决于你所在的州)和[Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)
-- _注意：巴西被指定为强制执行开发者注册的[ 4 个首批的国家]之一(https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)_
+- Email: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?cc=uk@keepandroidopen.org)
+- Make a report to the [UK Competition & Markets Authority](https://contact-the-cma.service.gov.uk/wizard/classify)
 
-#### 新加坡
+#### United States
 
-- 电子邮件: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?cc=singapore@keepandroidopen.org)
-- 联系[新加坡竞争与消费者委员会 (CCCS)](https://www.cccs.gov.sg)
-- _注意: 新加坡被指定为强制执行开发者注册的[ 4 个首批的国家]之一(https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)_
+- Make a report to the [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)
+- File a complaint with the [US Federal Trade Commission: Antitrust Complaints](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)
+- ~~Email (DEFUNCT): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~
+- ~~Email (DEFUNCT): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~
+- _Note: Due to the ongoing [US government shutdown](https://www.npr.org/series/g-s1-91413/government-shutdown-2025), it may take a long time before complaints are acknowledged and registered._
 
-#### 泰国
+#### Brazil
 
-- 电子邮件: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)
-- 联系[贸易竞争委员会办公室 (OTCC)](https://www.tcct.or.th/)
-- _注意: 泰国被指定为强制执行开发者注册的[[ 4 个首批的国家]之一(https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)_
+- Email: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?cc=brazil@keepandroidopen.org)
+- Reach out to Procon (depends on your state) and [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)
+- _Note: Brazil is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
 
-#### 印度尼西亚
+#### Singapore
+
+- Email: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?cc=singapore@keepandroidopen.org)
+- Contact the [Competition and Consumer Commission of Singapore (CCCS)](https://www.cccs.gov.sg)
+- _Note: Singapore is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
+
+#### Thailand
+
+- Email: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)
+- Contact the [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)
+- _Note: Thailand is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
+
+#### Indonesia
 
 - Email: [infokom@kppu.go.id](mailto:infokom@kppu.go.id?cc=indonesia@keepandroidopen.org)
-- Contact the [KPPU 竞争投诉处理](https://eng.kppu.go.id)
-- _Note: 印度尼西亚被指定为强制执行开发者注册的[ 4 个首批的国家]之一(https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)_
+- Contact the [KPPU for Competition Complaints](https://eng.kppu.go.id)
+- _Note: Indonesia is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
 
-#### 瑞士
+#### Switzerland
 
-- 向[竞争委员会](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)举报
+- File a report with the [Competition Commission](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)
   
-#### 澳大利亚
+#### Australia
 
-- 电子邮件: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)
-- 向[澳大利亚竞争和消费者委员会  (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)举报
-- 向澳大利亚消费者协会发送请求 ([CHOICE](https://accounts.choice.com.au/contact-us/))。要求他们向澳大利亚竞争与消费者委员会 (ACCC) 提出一则指定投诉。
-- 联系您当地的国会议员或州参议员。如果你不了解你的选区，你可以在[这里]找到(https://electorate.aec.gov.au/)，且你可以在[这里]查找你的议员或参议员。(https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)
+- Email: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)
+- File a report with the [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)
+- Send a request to Australian Consumers’ Association ([CHOICE](https://accounts.choice.com.au/contact-us/)). Ask them to lodge a designated complaint to the Australian Competition & Consumer Comission (ACCC).
+- Contact your local Member of Parliament or State Senator. If you don’t know your electorate, you can find it [here](https://electorate.aec.gov.au/), and you can search for your Parliamentarians or Senators [here](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results).
 
-#### 日本
+#### Japan
 
-- 电子邮件：[intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)
-- 联系[日本公平贸易委员会 (JFTC)](https://www.jftc.go.jp/)
+- Email: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)
+- Contact the [Japan Fair Trade Commission (JFTC)](https://www.jftc.go.jp/)
 
-#### 韩国
+#### South Korea
 
-- 电子邮件：[kftc@korea.kr](mailto:kftc@korea.kr?cc=korea@keepandroidopen.org)
-- 联系[韩国公平交易委员会 (KFTC)](https://www.ftc.go.kr/)
+- Email: [kftc@korea.kr](mailto:kftc@korea.kr?cc=korea@keepandroidopen.org)
+- Contact the [Korea Fair Trade Commission (KFTC)](https://www.ftc.go.kr/)
 
-#### 印度
+#### India
 
-- 电子邮件：[cci‑chairman@nic.in](mailto:cci‑chairman@nic.in?cc=india@keepandroidopen.org)
-- 联系[印度竞争委员会 (CCI)](https://www.cci.gov.in/)
+- Email: [cci‑chairman@nic.in](mailto:cci‑chairman@nic.in?cc=india@keepandroidopen.org)
+- Contact the [Competition Commission of India (CCI)](https://www.cci.gov.in/)
 
-#### 加拿大
+#### Canada
 
-- 电子邮件：[info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)
-- 向[加拿大竞争局](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)投诉
-- 向[https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)举报
+- Email: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)
+- Make a complaint to [Competition Bureau Canada](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)
+- File a report with the [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)
 
-#### 中国台湾
+#### Taiwan
 
-- 电子邮件： [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?cc=taiwan@keepandroidopen.org)
-- 联系[公平交易委员会 (FTC)](https://www.ftc.gov.tw/)
+- Email: [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?cc=taiwan@keepandroidopen.org)
+- Contact the [Fair Trade Commission (FTC)](https://www.ftc.gov.tw/)
 
-#### 土耳其
+#### Turkey
 
-- 联系[Rekabet Kurumu / 土耳其竞争管理局 (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa)
+- Contact the [Rekabet Kurumu / Turkish Competition Authority (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa)
 
-#### 阿根廷
+#### Argentina
 
-- 电子邮件：[cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?cc=argentina@keepandroidopen.org)
-- 联系[国家能力防御委员会 (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)
+- Email: [cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?cc=argentina@keepandroidopen.org)
+- Contact the [Comisión Nacional de Defensa de la Competencia (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)
 
-#### 墨西哥
+#### Mexico
 
-- 电子邮件：[denuncias@antimonopolio.gob.mx](mailto:denuncias@antimonopolio.gob.mx?cc=mexico@keepandroidopen.org)
-- 联系[国家反垄断委员会](https://www.antimonopolio.gob.mx/Micrositios/)
+- Email: [denuncias@antimonopolio.gob.mx](mailto:denuncias@antimonopolio.gob.mx?cc=mexico@keepandroidopen.org)
+- Contact the [Comisión Nacional Antimonopolio](https://www.antimonopolio.gob.mx/Micrositios/)
 
-#### 菲律宾
+#### Philippines
 
-- 联系[菲律宾竞争委员会 (PCC)](https://www.phcc.gov.ph/)
-
-
-
-#### 捷克共和国
-
-* 电子邮件：[posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)
-* 联系[竞争保护办公室 (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)
-
-
-#### 乌克兰
-
-- 联系[国家电子通信监管委员会](https://nkek.gov.ua/)
-- 联系[数字化转型部](https://thedigital.gov.ua/)
-- 联系[乌克兰反垄断委员会](https://amcu.gov.ua/)
+- Contact the [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/)
 
 
 
-### 开发者: 坚决抵制拒之门外
+#### Czech Republic
 
-如果你是应用开发者，恳请_**不注册**_抢先体验计划、进行身份验证，又或接受邀请加入 Android 开发人员控制台。有（礼貌地）回应任何邀请，列出你的疑虑和异议。
-—— 只有在开发商的默许下，他们的统领谋划才会得逞_ ——
+* Email: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)
+* Contact the [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)
 
-不建议其他应用程序开发人员还有组织注册该计划。可使用社区论坛、社交媒体和博客文章来传播该信息。可将[FreeDroidWarn library](https://github.com/woheller69/FreeDroidWarn)包含在你的代码以通知你的应用用户。
 
-如果你是一名有心的Google 员工或承包商，并且对该计划有更多了解，包括计划中的技术实施细节或该计划实施的其他缘由，请通过一台 _非工作_ 设备和 _非Gmail_ 帐户与[tips@keepandroidopen.org](mailto:tips@keepandroidopen.org)联系。你的信息将被严格保密。
+#### Ukraine
 
-### 所有人: 来发出自己的声音
+- Contact the [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)
+- Contact the [Ministry of Digital Transformation](https://thedigital.gov.ua/)
+- Contact the [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)
 
-- 在你的Android设备上[安装F-Droid](https://f-droid.org)。越多人使用替代的应用市场，就越难将其摒弃。
-- 将贵单位的署名加入草拟中的[致Google关于强制第三方应用分发开发者注册的公开信](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/)并请以邮件形式发送至[signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org)，且附上您的姓名、职务和隶属关系。
-- 使用他们的直接向Google反馈意见[Android 开发者验证要求调查](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
-- 在社交媒体和博客文章上发出你的声音，并链接到<https://keepandroidopen.org>
-- 对线网络水军：当您在社区论坛和社交媒体上遇到支持该政策的可疑帖子(“其实……”)，不妨以理据争，无所顾忌。
-- 通过[编辑此页面]丰富更多有用的信息来帮助这个项目(https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/index.md)。
-- [签署这份 change.org 请愿书](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
 
-#### 联系这些消费者/数字权利小组
+
+### Developers: Resist and refuse
+
+If you are an app developer, _**do not sign up**_ for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concerns and objections.
+
+—— _It is only through developer acquiescence that their takeover plan can possibly succeed._ ——
+
+Discourage fellow app developers and organizations from signing up to the program. Use community forums, social media, and blog posts to spread the message. Include the [FreeDroidWarn library](https://github.com/woheller69/FreeDroidWarn) in your code to inform your app users.
+
+If you are a Google employee or contractor of good conscience and have additional insight about the program, including planned technical implementation details or additional rationales for the program, please reach out to [tips@keepandroidopen.org](mailto:tips@keepandroidopen.org) from a _non-work_ machine and a _non-gmail_ account. Your information will be kept in strict confidence.
+
+### Everyone: Make your voice heard
+
+- [Install F-Droid](https://f-droid.org) on your Android device(s). The more people that use alternative app marketplaces, the harder it will be to shut them out.
+- Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) by emailing [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org) with your name, title, and affiliation.
+- Provide feedback directly to Google using their [Android developer verification requirements survey](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
+- Make your voice heard on social media and with blog posts, and link to <https://keepandroidopen.org>
+- Combat astroturfing: when you encounter suspect posts on community forums and social media in support of the policy (“Well, actually…”), challenge them and do not be shy.
+- Help this project out by [editing this page](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/index.md) with more useful information.
+- [Sign this change.org petition](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
+
+#### Contact These Consumer/Digital Rights Groups
 
 - [Euroconsumers](https://www.euroconsumers.org/)
 - [Electronic Frontier Foundation](https://www.eff.org/)
@@ -195,9 +201,9 @@ site_copyright: "**版权:** 无。本著作已标记"
 - [Bits of Freedom (Netherlands)](https://www.bitsoffreedom.nl/)
 - [Swecha Andhra Pradesh](https://www.swechaap.org/)
 
-#### 支持这些项目
+#### Support These Projects
 
-这些项目致力于在移动硬件领域提供急需的竞争。
+These projects are working to provide much-needed competition in the mobile hardware space.
 
 - [Librephone by the Free Software Foundation](https://librephone.fsf.org/)
 - [Graphene OS](https://grapheneos.org/)
@@ -214,13 +220,13 @@ site_copyright: "**版权:** 无。本著作已标记"
 - [LineageOS](https://lineageos.org/)
 - [/e/OS](https://e.foundation/e-os/)
 
-## 引用
+## References
 
-### 概述
+### Overview
 
 - [https://consumerrights.wiki/w/Android_Developer_Verification](https://consumerrights.wiki/w/Android_Developer_Verification)
 
-### 社论以及博客
+### Editorials and Blogs
 
 - “Application Gatekeeping: An Ever-Expanding Pathway to Internet Censorship” — [https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship)
 - “What We Talk About When We Talk About Sideloading” — [https://f-droid.org/en/2025/10/28/sideloading.html](https://f-droid.org/en/2025/10/28/sideloading.html) ([Hacker News Thread](https://news.ycombinator.com/item?id=45736479))
@@ -230,7 +236,7 @@ site_copyright: "**版权:** 无。本著作已标记"
 - "Keep Android Free and Open" - [https://www.swechaap.org/blog/keep-android-free-and-open/](https://www.swechaap.org/blog/keep-android-free-and-open)
 - "Join The Protest Against The Closing Of Android" - [https://www.i-programmer.info/news/193-android/18419-join-the-protest-against-the-closing-of-android.html](https://www.i-programmer.info/news/193-android/18419-join-the-protest-against-the-closing-of-android.html)
 
-### 媒体反应
+### Press Reactions
 
 - "'Keep Android Open' movement fights back against Google sideloading restrictions" – [https://www.theregister.com/2025/10/29/keep_android_open_movement/](https://www.theregister.com/2025/10/29/keep_android_open_movement/)
 - "Resistance to Google’s Android verification grows among developers" – [https://www.techzine.eu/news/devops/135878/resistance-to-googles-android-verification-grows-among-developers/](https://www.techzine.eu/news/devops/135878/resistance-to-googles-android-verification-grows-among-developers/)
@@ -255,7 +261,7 @@ site_copyright: "**版权:** 无。本著作已标记"
 - "Google Defends Developer Verification" - [https://www.i-programmer.info/news/193-android/18356-google-defends-developer-verification.html](https://www.i-programmer.info/news/193-android/18356-google-defends-developer-verification.html)
 - “Keep Android Open – Abwehr gegen Verbot anonymer Apps von Google“- [https://www.heise.de/news/Keep-Android-Open-Abwehr-gegen-Verbot-anonymer-Apps-von-Google-10965483.html](https://www.heise.de/news/Keep-Android-Open-Abwehr-gegen-Verbot-anonymer-Apps-von-Google-10965483.html)
 
-### 视频回应
+### Video Responses
 
 - “Google: 'Your $1000 phone needs our permission to install apps now'” — Louis Rossmann — [https://youtu.be/QBEKlIV_70E](https://youtu.be/QBEKlIV_70E)
 - “F-Droid Will Die in 2026 Unless We Act Now — Techlore” — [https://youtu.be/wRvqdLsnsKY](https://youtu.be/wRvqdLsnsKY)
@@ -264,7 +270,7 @@ site_copyright: "**版权:** 无。本著作已标记"
 - “Is F-Droid in Trouble? Google Developer Verification” — [https://youtu.be/-SOOoQWv4kk](https://youtu.be/-SOOoQWv4kk)
 - “Google is Applefying Android: The End of Openness” — ChiefGyk3D — [https://youtu.be/WFOPzixHoLY](https://youtu.be/WFOPzixHoLY)
 
-### 讨论
+### Discussions
 
 - [https://news.ycombinator.com/item?id=45742488](https://news.ycombinator.com/item?id=45742488)
 - [https://news.ycombinator.com/item?id=45409794](https://news.ycombinator.com/item?id=45409794)
@@ -282,7 +288,8 @@ site_copyright: "**版权:** 无。本著作已标记"
 - [https://www.reddit.com/r/androiddev/comments/1n7g0cc/to_all_android_devs_speak_up_now_before_you_lose/](https://www.reddit.com/r/androiddev/comments/1n7g0cc/to_all_android_devs_speak_up_now_before_you_lose/)
 - [https://www.reddit.com/r/androiddev/comments/1oaj908/collection_of_actions_we_can_take_to_stop/](https://www.reddit.com/r/androiddev/comments/1oaj908/collection_of_actions_we_can_take_to_stop/)
 
-### 官方文档
+### Official Documentation
+
 - Initial announcement — [https://android-developers.googleblog.com/2025/08/elevating-android-security.html](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)
 - Let's talk security: Answering your top questions about Android developer verification — [https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html](https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html)
 - Android developer verification: Early access starts now as we continue to build with your feedback — [https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
@@ -292,7 +299,7 @@ site_copyright: "**版权:** 无。本著作已标记"
 - Download an early look of the new Android Developer Console — [https://support.google.com/android-developer-console/answer/16450960](https://support.google.com/android-developer-console/answer/16450960)
 - API Documentation — [https://developer.android.com/reference/android/content/pm/PackageInstaller#DEVELOPER_VERIFICATION_FAILED_REASON_DEVELOPER_BLOCKED](https://developer.android.com/reference/android/content/pm/PackageInstaller#DEVELOPER_VERIFICATION_FAILED_REASON_DEVELOPER_BLOCKED)
 
-### 杂项
+### Miscellaneous
 
 - [Android Developer Verification Discourse](https://gist.github.com/agnostic-apollo/b8d8daa24cbdd216687a6bef53d417a6) by Termux developer [agnostic-apollo](https://github.com/agnostic-apollo)
 - [Opposition recommendations](https://docs.google.com/document/d/1axlQkdc-wseda9PL2ZP0fgy3I4DqAVVlK5kJw4ksIwU)
