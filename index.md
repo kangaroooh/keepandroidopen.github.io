@@ -66,7 +66,6 @@ Complaints are especially impactful when they are authored by a citizen of that 
 - File a complaint with the [US Federal Trade Commission: Antitrust Complaints](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)
 - ~~Email (DEFUNCT): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~
 - ~~Email (DEFUNCT): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~
-- _Note: Due to the ongoing [US government shutdown](https://www.npr.org/series/g-s1-91413/government-shutdown-2025), it may take a long time before complaints are acknowledged and registered._
 
 #### Brazil
 
