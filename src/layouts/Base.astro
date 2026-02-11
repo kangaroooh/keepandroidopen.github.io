@@ -172,6 +172,27 @@ const {
       margin-right: 0.5em;
     }
 
+    .header-icons {
+      position: absolute;
+      right: 1rem;
+      z-index: 1000;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+    }
+
+    .header-icon-link {
+      color: var(--pico-text);
+      padding: 0.5rem;
+      transition: all 0.3s ease;
+      display: inline-flex;
+      align-items: center;
+    }
+
+    .header-icon-link:hover {
+      opacity: 0.8;
+    }
+
     .alarming-banner {
       /* Layout and Background */
       font-variant-numeric: tabular-nums;
