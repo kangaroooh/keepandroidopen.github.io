@@ -85,6 +85,10 @@ Complaints are especially impactful when they are authored by a citizen of that 
 
 - Email: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)
 - Contact the [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)
+- Email: [info@etda.or.th](mailto:info@etda.or.th?cc=thailand@keepandroidopen.org)
+- Contact the [Electronic Transactions Development Agency (ETDA)](https://www.etda.or.th/en/contact/contact.aspx)
+- Email: [contact@tcc.or.th](mailto:contact@tcc.or.th?cc=thailand@keepandroidopen.org)
+- Contact the [Thailand Consumers Council (TCC)](https://www.tcc.or.th/)
 - _Note: Thailand is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
 
 #### Indonesia

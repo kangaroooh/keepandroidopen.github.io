@@ -7,6 +7,7 @@ export const languages = {
   'pt-BR': { label: 'Português', path: '/pt-BR/' },
   cs: { label: 'Čeština', path: '/cs/' },
   sk: { label: 'Slovenčina', path: '/sk/' },
+  th: { label: 'ไทย', path: '/th/' },
   tr: { label: 'Türkçe', path: '/tr/' },
   uk: { label: 'Українська', path: '/uk/' },
   'zh-CN': { label: '简体中文', path: '/zh-CN/' },
